@@ -51,7 +51,7 @@ A lightweight terminal utility that cycles through animated ASCII art banners ce
 ### Installation
 
 ```bash
-git clone https://github.com/MultiRight/foss-banner.git
+git clone https://github.com/arwanddlearmw/foss-banner-updated-.git
 cd foss-banner
 ```
 
