@@ -34,8 +34,8 @@ def init_colors():
         import colorama
         colorama.init(autoreset=True)
     except ImportError:
-        # Windows 10+ terminals often support ANSI codes without extra packages.
-        pass
+        print ("check the libary colorama has been downloaded or update your terminal") # Windows 10+ terminals often support ANSI codes without extra packages.
+
 
 
 
