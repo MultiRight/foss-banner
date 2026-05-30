@@ -1,9 +1,15 @@
 # mimi is a nice cat 🐱
 
+#Lines 4 and 43 were edited by MultiRight <https://github.com/MultiRight>
+# import libraries 
+
 import os
 import sys
 import time
 import random
+
+color_red = "\033[31m"
+color_reset = "\033[0m"
 
 
 def read_lines(path, start, end):
@@ -34,7 +40,7 @@ def init_colors():
         import colorama
         colorama.init(autoreset=True)
     except ImportError:
-        print ("check the libary colorama has been downloaded or update your terminal") # Windows 10+ terminals often support ANSI codes without extra packages.
+        print (f"{color_red}err : check the libary colorama has been downloaded or update your terminal{color_reset}") # Windows 10+ terminals often support ANSI codes without extra packages.
 
 
 
