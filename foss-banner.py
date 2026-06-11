@@ -4,6 +4,11 @@
 
 import random
 import time
+import sys
+
+if sys.platform == "win32":
+    import os
+    os.system("")
 
 # ANSI color codes for terminal text colors (red, green, yellow, blue, purple, cyan)
 
