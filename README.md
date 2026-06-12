@@ -73,6 +73,16 @@ Press `Ctrl+C` to stop the program.
 
 ---
 
+## Quick Start
+
+If you're on Linux and want to run it without downloading:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/MultiRight/foss-banner/main/foss-banner.py | python3
+```
+
+---
+
 ## License
 
 This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**.
