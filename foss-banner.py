@@ -1,9 +1,5 @@
 # mimi is a nice cat 🐱
 
-# github : https://github.com/MultiRight
-
-# Copyright © 2026 MultiRight <https://github.com/MultiRight>
-
 # Invoking libraries via import
 
 import random
@@ -410,7 +406,6 @@ while True:
             print()
 
             print(f"{color_orange}Thank you for using foss-banner!{color_reset}")
-            print(f"{color_orange}Author : https://github.com/MultiRight{color_reset}")
             
             break
 
