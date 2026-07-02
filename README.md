@@ -89,13 +89,6 @@ This project is licensed under the **[GNU General Public License v3.0](https://w
 
 ---
 
-## Author
-
-**MultiRight**
-[https://github.com/MultiRight](https://github.com/MultiRight)
-
----
-
 ## 🐱 Special Thanks
 A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
